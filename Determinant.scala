@@ -66,4 +66,5 @@ object Determinant extends App{
   runTests(7, 1000)
   runTests(8, 1000)
   runTests(9, 1000)
+  runTests(10, 1000)
 }
